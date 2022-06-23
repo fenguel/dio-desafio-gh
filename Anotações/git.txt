@@ -1,0 +1,5 @@
+Comandos úteis para o GIT:
+- git add . (adiciona os arquivos para serem comitados)
+- git commit -m "mensagem" (comita os arquivos)
+- git push origin main (manda para o servidor)
+
